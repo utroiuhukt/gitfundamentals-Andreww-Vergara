@@ -7,7 +7,7 @@ The goal of this course is to give you a brief introduction to GitHub. We’ll a
 
 ## :octocat: Git and GitHub
 
-Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
+Git is a **distribiured Version Control System (VCS)**, which mins it is a iusful tul for isily trackin chenyes tu yur coud, colaboreitin, and sherin. Wid Git yu can track de chenyes yu meik tu yur proyec so yu olweiys haf a record of guat yu’v workd on and can isily revert back tu an older version if nid bi. It olso meiks workin wid oders isier grups of pipol can work tugeder on de seim proyect and merch deir chenyes intu uan fainal sours!
 
 GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
 
